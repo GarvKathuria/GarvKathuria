@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Garv</h1>
-<h3 align="center">QA Engineer | SDE | AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Garv Kathuria</h1>
+<h3 align="center">QA Engineer | SDE | Data Analyst | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=GarvKathuria">
@@ -12,22 +12,22 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on  
-  Building scalable backend APIs, contributing to real-world application features, and developing interactive AR/VR simulations using Unity  
+  Building scalable backend systems, developing production-oriented applications, and ensuring system reliability through a blend of software development and testing practices, while leveraging data analysis to optimize performance and decision-making  
 
 - 👯 I’m looking to collaborate on  
-  Open-source projects in AI, backend development, and automation testing  
+  Open-source and real-world projects that involve backend development, automation testing, and data-driven problem solving  
 
 - 🤝 I’m looking for help with  
-  Advanced system design and scalable architecture  
+  Advanced system design concepts such as distributed systems, microservices architecture, scalability, and strengthening data analytics workflows  
 
 - 🌱 I’m currently learning  
-  AI models, system design, cybersecurity analytics (ELK Stack, SIEM), and automation testing  
+  AI models and their real-world applications, system design, cybersecurity analytics (ELK Stack, SIEM), automation testing frameworks, and data analysis using Python and modern data tools  
 
 - 💬 Ask me about  
-  Python, APIs, backend systems, Unity (AR/VR), and automation testing  
+  Backend development (Node.js, APIs), Python, manual & automation testing, debugging complex systems, and deriving insights from data  
 
 - ⚡ Fun fact  
-  I enjoy turning complex ideas into practical, real-world implementations  
+  I approach problems from three angles—how to build it, how to break it, and how to improve it using data  
 
 ---
 
