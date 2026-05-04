@@ -30,14 +30,10 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 <p align="center">
 <svg width="320" height="320" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Outer orbit -->
-  <circle cx="160" cy="160" r="120" stroke="#444" stroke-width="1" fill="none"/>
-  
-  <!-- Middle orbit -->
-  <circle cx="160" cy="160" r="80" stroke="#333" stroke-width="1" fill="none"/>
-
-  <!-- Inner orbit -->
-  <circle cx="160" cy="160" r="40" stroke="#222" stroke-width="1" fill="none"/>
+  <!-- Orbits -->
+  <circle cx="160" cy="160" r="120" stroke="#444" fill="none"/>
+  <circle cx="160" cy="160" r="80" stroke="#333" fill="none"/>
+  <circle cx="160" cy="160" r="40" stroke="#222" fill="none"/>
 
   <!-- Rotating group -->
   <g>
@@ -49,7 +45,7 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
       dur="25s"
       repeatCount="indefinite"/>
 
-    <!-- Skills (text instead of icons to avoid GitHub stripping) -->
+    <!-- Skills -->
     <text x="160" y="40" text-anchor="middle" fill="#FF2E97" font-size="12">Python</text>
     <text x="270" y="160" text-anchor="middle" fill="#00F7FF" font-size="12">React</text>
     <text x="160" y="290" text-anchor="middle" fill="#FF2E97" font-size="12">Node</text>
