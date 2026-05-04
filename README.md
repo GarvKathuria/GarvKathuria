@@ -28,21 +28,19 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 ## 🛠️ Tech Stack
 
 <p align="center">
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
 
-<svg width="300" height="300" viewBox="0 0 300 300">
-
-  <!-- Rotation animation -->
-  <g transform-origin="150 150">
+  <!-- Rotating group -->
+  <g>
     <animateTransform 
       attributeName="transform"
       type="rotate"
       from="0 150 150"
       to="360 150 150"
       dur="20s"
-      repeatCount="indefinite"
-    />
+      repeatCount="indefinite"/>
 
-    <!-- Icons placed in circle -->
+    <!-- Icons -->
     <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="130" y="10" height="40"/>
     <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="230" y="80" height="40"/>
     <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="230" y="180" height="40"/>
@@ -52,13 +50,12 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 
   </g>
 
-  <!-- Center text -->
-  <text x="150" y="155" text-anchor="middle" fill="#FF2E97" font-size="14">
+  <!-- Center Text -->
+  <text x="150" y="155" text-anchor="middle" fill="#FF2E97" font-size="14" font-family="Arial">
     Tech Stack
   </text>
 
 </svg>
-
 </p>
 
 ---
