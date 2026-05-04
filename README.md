@@ -60,6 +60,7 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 </svg>
 
 </p>
+
 ---
 
 ## 📌 Featured Projects
