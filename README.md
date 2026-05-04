@@ -170,11 +170,21 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GarvKathuria&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GarvKathuria&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvKathuria&layout=compact&theme=radical" />
-</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=GarvKathuria&show_icons=true&theme=radical&hide_border=true" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GarvKathuria&theme=radical&hide_border=true" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvKathuria&layout=compact&theme=radical&hide_border=true" width="60%" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -184,6 +194,7 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 ---
 
 ## ✨ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
+</p>
