@@ -170,21 +170,14 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 
 ## 📊 GitHub Stats
 
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=GarvKathuria&show_icons=true&theme=radical&hide_border=true" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GarvKathuria&theme=radical&hide_border=true" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvKathuria&layout=compact&theme=radical&hide_border=true" width="60%" />
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GarvKathuria&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170"/>
+<img src="https://streak-stats.demolab.com?user=GarvKathuria&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvKathuria&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="150"/>
+</p>
 
 ---
 
