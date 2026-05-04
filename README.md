@@ -195,6 +195,13 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 
 ## ✨ Quote of the Day
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</td>
+<td align="center" width="50%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</td>
+</tr>
+</table>
