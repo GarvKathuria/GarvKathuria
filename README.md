@@ -91,41 +91,82 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 
 ## 📌 Featured Projects
 
-<p align="center">
+<table>
+<tr>
 
-<a href="https://github.com/GarvKathuria/Pokemon-Battle-Simulator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvKathuria&repo=Pokemon-Battle-Simulator&theme=radical" />
-</a>
+<td width="50%">
+<h3>🔥 Pokemon Battle Simulator</h3>
+<p>Real-time multiplayer battle system using WebSockets with optimized state handling.</p>
+<p><b>Tech:</b> JavaScript, WebSockets</p>
+<a href="https://github.com/GarvKathuria/Pokemon-Battle-Simulator">🔗 View Repo</a>
+</td>
 
-<a href="https://github.com/GarvKathuria/Chat-app1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvKathuria&repo=Chat-app1&theme=radical" />
-</a>
+<td width="50%">
+<h3>💬 Chat Application</h3>
+<p>Real-time chat app with authentication and scalable backend architecture.</p>
+<p><b>Tech:</b> MERN Stack</p>
+<a href="https://github.com/GarvKathuria/Chat-app1">🔗 View Repo</a>
+</td>
 
-<a href="https://github.com/GarvKathuria/Blog-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvKathuria&repo=Blog-App&theme=radical" />
-</a>
+</tr>
 
-<a href="https://github.com/GarvKathuria/Ecommerce-Website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvKathuria&repo=Ecommerce-Website&theme=radical" />
-</a>
+<tr>
 
-<a href="https://github.com/GarvKathuria/Sentiment-Analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvKathuria&repo=Sentiment-Analyzer&theme=radical" />
-</a>
+<td width="50%">
+<h3>🧪 Blog App</h3>
+<p>Full-stack blogging platform with CRUD operations and backend integration.</p>
+<p><b>Tech:</b> JavaScript, Node.js</p>
+<a href="https://github.com/GarvKathuria/Blog-App">🔗 View Repo</a>
+</td>
 
-<a href="https://github.com/GarvKathuria/Cricket-Analytics-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvKathuria&repo=Cricket-Analytics-Dashboard&theme=radical" />
-</a>
+<td width="50%">
+<h3>🛒 Ecommerce Website</h3>
+<p>Frontend-driven e-commerce UI with product listing and structured layout.</p>
+<p><b>Tech:</b> HTML, CSS, JavaScript</p>
+<a href="https://github.com/GarvKathuria/Ecommerce-Website">🔗 View Repo</a>
+</td>
 
-<a href="https://github.com/GarvKathuria/Image-Captioning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvKathuria&repo=Image-Captioning&theme=radical" />
-</a>
+</tr>
 
-<a href="https://github.com/GarvKathuria/Bike-Store-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvKathuria&repo=Bike-Store-Dashboard&theme=radical" />
-</a>
+<tr>
 
-</p>
+<td width="50%">
+<h3>📊 Cricket Analytics Dashboard</h3>
+<p>Data analysis dashboard visualizing player performance and match insights.</p>
+<p><b>Tech:</b> Python, Pandas</p>
+<a href="https://github.com/GarvKathuria/Cricket-Analytics-Dashboard">🔗 View Repo</a>
+</td>
+
+<td width="50%">
+<h3>📈 Bike Store Dashboard</h3>
+<p>SQL-based analytics dashboard extracting business insights from datasets.</p>
+<p><b>Tech:</b> SQL, Data Analysis</p>
+<a href="https://github.com/GarvKathuria/Bike-Store-Dashboard">🔗 View Repo</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+<h3>🤖 Sentiment Analyzer</h3>
+<p>ML-based sentiment classification using NLP preprocessing and evaluation.</p>
+<p><b>Tech:</b> Python, Scikit-learn</p>
+<a href="https://github.com/GarvKathuria/Sentiment-Analyzer">🔗 View Repo</a>
+</td>
+
+<td width="50%">
+<h3>🖼️ Image Captioning</h3>
+<p>Deep learning model (CNN + LSTM) to generate captions for images.</p>
+<p><b>Tech:</b> Python, TensorFlow</p>
+<a href="https://github.com/GarvKathuria/Image-Captioning">🔗 View Repo</a>
+</td>
+
+</tr>
+
+</table>
+
+---
 
 ## 📊 GitHub Stats
 
