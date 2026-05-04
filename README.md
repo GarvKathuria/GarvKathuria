@@ -113,8 +113,8 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvKathuria&repo=Sentiment-Analyzer&theme=radical" />
 </a>
 
-<a href="https://github.com/GarvKathuria/Cricket-Analytics-Dshboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvKathuria&repo=Cricket-Analytics-Dshboard&theme=radical" />
+<a href="https://github.com/GarvKathuria/Cricket-Analytics-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvKathuria&repo=Cricket-Analytics-Dashboard&theme=radical" />
 </a>
 
 <a href="https://github.com/GarvKathuria/Image-Captioning">
@@ -126,8 +126,6 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 </a>
 
 </p>
-
----
 
 ## 📊 GitHub Stats
 
