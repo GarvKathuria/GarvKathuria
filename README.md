@@ -175,13 +175,17 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GarvKathuria&theme=radical" width="44%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GarvKathuria&theme=radical" width="44%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GarvKathuria&theme=radical" width="44%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GarvKathuria&theme=radical" width="44%" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarvKathuria&theme=radical" width="44%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarvKathuria&theme=radical&utcOffset=5.5" width="44%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarvKathuria&theme=radical" width="44%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarvKathuria&theme=radical&utcOffset=5.5" width="44%" />
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvKathuria&theme=github-dark" width="95%" />
 </p>
 
 ---
