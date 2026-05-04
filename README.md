@@ -193,7 +193,7 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GarvKathuria&theme=radical&no-frame=true&margin-w=8&row=1&column=6" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=GarvKathuria&theme=radical&no-frame=true&margin-w=10&column=4" width="100%" />
 </p>
 
 ---
