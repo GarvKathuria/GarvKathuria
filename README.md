@@ -184,6 +184,10 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarvKathuria&theme=radical&utcOffset=5.5" height="170"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvKathuria&theme=github-dark" />
+</p>
+
 ---
 
 ## 🏆 Achievements
