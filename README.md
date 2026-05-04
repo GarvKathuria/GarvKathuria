@@ -7,16 +7,26 @@
 
 ---
 
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on  
-  Building scalable backend systems, developing production-oriented applications, and ensuring system reliability through development + testing + data analysis  
+  Building scalable backend systems, developing production-oriented applications, and ensuring system reliability through a blend of software development and testing practices, while leveraging data analysis to optimize performance and decision-making  
+
+- 👯 I’m looking to collaborate on  
+  Open-source and real-world projects that involve backend development, automation testing, and data-driven problem solving  
+
+- 🤝 I’m looking for help with  
+  Advanced system design concepts such as distributed systems, microservices architecture, scalability, and strengthening data analytics workflows  
 
 - 🌱 I’m currently learning  
-  AI models, system design, cybersecurity analytics (ELK Stack, SIEM), and automation testing  
+  AI models and their real-world applications, system design, cybersecurity analytics (ELK Stack, SIEM), automation testing frameworks, and data analysis using Python and modern data tools  
+
+- 💬 Ask me about  
+  Backend development (Node.js, APIs), Python, manual & automation testing, debugging complex systems, and deriving insights from data  
 
 - ⚡ Fun fact  
-  I approach problems from three angles—build, test, and optimize using data  
+  I approach problems from three angles—how to build it, how to break it, and how to improve it using data  
 
 ---
 
