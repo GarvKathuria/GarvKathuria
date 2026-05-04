@@ -27,50 +27,47 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td align="center"><b>Languages</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
-</td>
+<p align="center">
+<svg width="320" height="320" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg">
 
-<td align="center"><b>Backend</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35"/>
-</td>
+  <!-- Outer orbit -->
+  <circle cx="160" cy="160" r="120" stroke="#444" stroke-width="1" fill="none"/>
+  
+  <!-- Middle orbit -->
+  <circle cx="160" cy="160" r="80" stroke="#333" stroke-width="1" fill="none"/>
 
-<td align="center"><b>Frontend</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="35"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35"/>
-</td>
-</tr>
+  <!-- Inner orbit -->
+  <circle cx="160" cy="160" r="40" stroke="#222" stroke-width="1" fill="none"/>
 
-<tr>
-<td align="center"><b>Testing</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35"/>
-</td>
+  <!-- Rotating group -->
+  <g>
+    <animateTransform 
+      attributeName="transform"
+      type="rotate"
+      from="0 160 160"
+      to="360 160 160"
+      dur="25s"
+      repeatCount="indefinite"/>
 
-<td align="center"><b>Data & AI</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35"/>
-</td>
+    <!-- Skills (text instead of icons to avoid GitHub stripping) -->
+    <text x="160" y="40" text-anchor="middle" fill="#FF2E97" font-size="12">Python</text>
+    <text x="270" y="160" text-anchor="middle" fill="#00F7FF" font-size="12">React</text>
+    <text x="160" y="290" text-anchor="middle" fill="#FF2E97" font-size="12">Node</text>
+    <text x="50" y="160" text-anchor="middle" fill="#00F7FF" font-size="12">Docker</text>
 
-<td align="center"><b>Tools</b><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
-</td>
-</tr>
-</table>
+    <text x="230" y="90" text-anchor="middle" fill="#00F7FF" font-size="10">JS</text>
+    <text x="230" y="230" text-anchor="middle" fill="#FF2E97" font-size="10">TS</text>
+    <text x="90" y="230" text-anchor="middle" fill="#00F7FF" font-size="10">Mongo</text>
+    <text x="90" y="90" text-anchor="middle" fill="#FF2E97" font-size="10">Linux</text>
+
+  </g>
+
+  <!-- Center -->
+  <circle cx="160" cy="160" r="20" fill="#FF2E97"/>
+  <text x="160" y="165" text-anchor="middle" fill="white" font-size="10">ME</text>
+
+</svg>
+</p>
 
 ---
 
