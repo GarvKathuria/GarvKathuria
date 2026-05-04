@@ -5,37 +5,23 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Build+•+Test+•+Analyze+•+Improve;Backend+Developer+%7C+Automation+Tester+%7C+Data+Driven;Turning+Systems+into+Scalable+and+Reliable+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&width=800&lines=Build+•+Test+•+Analyze+•+Improve;Backend+Developer+%7C+Automation+Tester+%7C+Data+Driven;Turning+Systems+into+Scalable+and+Reliable+Solutions" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=GarvKathuria&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=GarvKathuria&label=Profile%20views&color=ff2e97&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on  
-  Designing and developing scalable backend systems and real-world applications, focusing on clean architecture, API efficiency, and performance optimization  
-
-- 🧪 I ensure system reliability through  
-  Manual and automation testing (Selenium, API testing), writing structured test cases, identifying defects, and improving software quality across the development lifecycle  
-
-- 📊 I use data to drive decisions by  
-  Performing data analysis, building dashboards, and extracting actionable insights to improve system performance and user experience  
-
-- 🤖 I work with AI systems by  
-  Evaluating LLM outputs, applying prompt engineering techniques, and building ML/NLP-based solutions such as sentiment analysis and image captioning  
-
-- ⚙️ I focus on engineering fundamentals like  
-  Data structures, OOP, REST APIs, system design basics, and building maintainable, scalable systems  
-
-- 🤝 I collaborate in cross-functional environments by  
-  Working closely with developers, QA teams, and stakeholders to ensure quality, performance, and timely delivery  
-
-- ⚡ My approach  
-  **Build → Test → Analyze → Improve**
+- 🔭 Designing scalable backend systems with clean architecture & optimized APIs  
+- 🧪 Ensuring reliability through manual + automation testing (Selenium, API testing)  
+- 📊 Building dashboards & extracting insights for data-driven decisions  
+- 🤖 Working with AI systems (LLM evaluation, NLP, ML models)  
+- ⚙️ Strong in DSA, OOP, REST APIs & system design fundamentals  
+- 🤝 Collaborating across teams for quality & performance  
 
 ---
 
@@ -96,15 +82,13 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 
 <td width="50%">
 <h3>🔥 Pokemon Battle Simulator</h3>
-<p>Real-time multiplayer battle system using WebSockets with optimized state handling.</p>
-<p><b>Tech:</b> JavaScript, WebSockets</p>
+<p>Real-time multiplayer system using WebSockets with optimized state handling.</p>
 <a href="https://github.com/GarvKathuria/Pokemon-Battle-Simulator">🔗 View Repo</a>
 </td>
 
 <td width="50%">
 <h3>💬 Chat Application</h3>
-<p>Real-time chat app with authentication and scalable backend architecture.</p>
-<p><b>Tech:</b> MERN Stack</p>
+<p>Scalable real-time chat app with authentication (MERN).</p>
 <a href="https://github.com/GarvKathuria/Chat-app1">🔗 View Repo</a>
 </td>
 
@@ -113,57 +97,18 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 <tr>
 
 <td width="50%">
-<h3>🧪 Blog App</h3>
-<p>Full-stack blogging platform with CRUD operations and backend integration.</p>
-<p><b>Tech:</b> JavaScript, Node.js</p>
-<a href="https://github.com/GarvKathuria/Blog-App">🔗 View Repo</a>
-</td>
-
-<td width="50%">
-<h3>🛒 Ecommerce Website</h3>
-<p>Frontend-driven e-commerce UI with product listing and structured layout.</p>
-<p><b>Tech:</b> HTML, CSS, JavaScript</p>
-<a href="https://github.com/GarvKathuria/Ecommerce-Website">🔗 View Repo</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-<h3>📊 Cricket Analytics Dashboard</h3>
-<p>Data analysis dashboard visualizing player performance and match insights.</p>
-<p><b>Tech:</b> Python, Pandas</p>
+<h3>📊 Cricket Analytics</h3>
+<p>Dashboard analyzing player performance using data insights.</p>
 <a href="https://github.com/GarvKathuria/Cricket-Analytics-Dashboard">🔗 View Repo</a>
 </td>
 
 <td width="50%">
-<h3>📈 Bike Store Dashboard</h3>
-<p>SQL-based analytics dashboard extracting business insights from datasets.</p>
-<p><b>Tech:</b> SQL, Data Analysis</p>
-<a href="https://github.com/GarvKathuria/Bike-Store-Dashboard">🔗 View Repo</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
 <h3>🤖 Sentiment Analyzer</h3>
-<p>ML-based sentiment classification using NLP preprocessing and evaluation.</p>
-<p><b>Tech:</b> Python, Scikit-learn</p>
+<p>NLP-based sentiment classification model.</p>
 <a href="https://github.com/GarvKathuria/Sentiment-Analyzer">🔗 View Repo</a>
 </td>
 
-<td width="50%">
-<h3>🖼️ Image Captioning</h3>
-<p>Deep learning model (CNN + LSTM) to generate captions for images.</p>
-<p><b>Tech:</b> Python, TensorFlow</p>
-<a href="https://github.com/GarvKathuria/Image-Captioning">🔗 View Repo</a>
-</td>
-
 </tr>
-
 </table>
 
 ---
@@ -175,17 +120,17 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GarvKathuria&theme=radical" width="44%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GarvKathuria&theme=radical" width="44%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GarvKathuria&theme=tokyonight" width="44%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GarvKathuria&theme=radical" width="44%" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarvKathuria&theme=radical" width="44%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarvKathuria&theme=radical&utcOffset=5.5" width="44%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GarvKathuria&theme=radical" width="44%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GarvKathuria&theme=tokyonight&utcOffset=5.5" width="44%" />
 </p>
 
 <br>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvKathuria&theme=github-dark" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvKathuria&theme=tokyo-night" width="95%" />
 </p>
 
 ---
@@ -193,7 +138,7 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GarvKathuria&theme=radical&no-frame=true&margin-w=10&column=4" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=GarvKathuria&theme=onedark&no-frame=true&margin-w=10&column=4" width="100%" />
 </p>
 
 ---
