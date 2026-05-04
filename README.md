@@ -27,36 +27,50 @@ QA Engineer • SDE • Data Analyst • AI Enthusiast
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
+</td>
 
-  <!-- Rotating group -->
-  <g>
-    <animateTransform 
-      attributeName="transform"
-      type="rotate"
-      from="0 150 150"
-      to="360 150 150"
-      dur="20s"
-      repeatCount="indefinite"/>
+<td align="center"><b>Backend</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35"/>
+</td>
 
-    <!-- Icons -->
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="130" y="10" height="40"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="230" y="80" height="40"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="230" y="180" height="40"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="130" y="250" height="40"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" x="30" y="180" height="40"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" x="30" y="80" height="40"/>
+<td align="center"><b>Frontend</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="35"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35"/>
+</td>
+</tr>
 
-  </g>
+<tr>
+<td align="center"><b>Testing</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35"/>
+</td>
 
-  <!-- Center Text -->
-  <text x="150" y="155" text-anchor="middle" fill="#FF2E97" font-size="14" font-family="Arial">
-    Tech Stack
-  </text>
+<td align="center"><b>Data & AI</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35"/>
+</td>
 
-</svg>
-</p>
+<td align="center"><b>Tools</b><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+</td>
+</tr>
+</table>
 
 ---
 
